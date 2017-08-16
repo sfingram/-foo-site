@@ -6,6 +6,6 @@ edit on example branch
 
 PIKA!
 
-|| hoo coo ||
-| roo coo |
+|| fooo ||
+| 1 |
 
